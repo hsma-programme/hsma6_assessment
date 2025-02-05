@@ -1,3 +1,26 @@
+# Solutions
+
+Solutions have now been uploaded for this assessment.
+
+For HSMA Students: these solutions are intended to provide an example of how to approach a question. They are far from the only way to tackle these questions! If you have provided a solution that works, your solution will not be marked down from being different from the code and approaches in the solutions file.
+
+In some cases, the solutions may go slightly beyond the standard expected to achieve full marks, but showcase some 'best practice' that would be recommended. Instances of this include
+
+- filtering the dataframe in the streamlit question to hide some columns (this would be nicer for your end user, but wasn't requested)
+- using a random state when initialising the XGBoost model (it is very good practice to do so, but the question only requested it in the train test split) 
+
+In the event we think something is missing from your solution, we will carefully cross-reference with the question wording to ensure that the question was worded fairly and made it explicit what was expected. 
+
+---
+
+## Web version of the assessment
+
+If you wish to try out the assessment using a web environment, head to [this repository](https://github.com/hsma-programme/hsma6_assessment_WEB) and click on the button at the beginning of the readme.
+
+---
+
+# Assessment Information
+
 The assessment is provided as a Jupyter Notebook, along with some csv data files that are required to answer some of the optional questions.
 
 You will have from 10:30 - 12 to complete the assessment, and submit it to us (instructions for submission will be provided on the day).  Late submissions will be disqualified.
